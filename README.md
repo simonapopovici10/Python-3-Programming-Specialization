@@ -17,6 +17,6 @@ Applied Data Science with Python
 
 But it is also appropriate as a first set of courses in Python if you are already familiar with some other programming language, or if you are up for the challenge of diving in head-first.
 
-# Applied Learning Project
+# Applied learning project
 
 By the end of the second course, you will create a simple sentiment analyzer that counts the number of positive and negative words in tweets. In the third course, you will mash up two APIs to create a movie recommender. The final course, Python Project: pillow, tesseract, and opencv (Course 5), is an extended project in which you'll perform optical character recognition (OCR) and object detection in images.
